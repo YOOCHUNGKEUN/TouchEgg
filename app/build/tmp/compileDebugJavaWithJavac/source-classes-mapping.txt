@@ -1,0 +1,6 @@
+com/example/touchegg/DataBindingTriggerClass.java
+ com.example.touchegg.DataBindingTriggerClass
+com/example/touchegg/databinding/ActivityMainBinding.java
+ com.example.touchegg.databinding.ActivityMainBinding
+com/example/touchegg/BuildConfig.java
+ com.example.touchegg.BuildConfig
